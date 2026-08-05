@@ -1,4 +1,4 @@
-# TaskFlow — Full-Stack Task & Project Management App
+# TaskFlow - Full-Stack Task & Project Management App
 
 TaskFlow is a full-stack web application for managing projects and tasks within a team. It was built for the **Advanced Software Development / Full Stack Application Development (CMS22204)** project brief at Ravensbourne University London.
 
